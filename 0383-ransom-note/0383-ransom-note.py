@@ -1,13 +1,17 @@
-from collections import Counter
-
 class Solution(object):
     def canConstruct(self, ransomNote, magazine):
 
-        ran_count = Counter(ransomNote)
-        mag_count = Counter(magazine)
+        mag_dict = {}
 
-        for char, count in ran_count.items():
-            if mag_count[char] < count:
+        for char in magazine:
+            if char in mag_dict:
+                mag_dict[char] += 1
+            else:
+                mag_dict[char] = 1
+        
+        for char in ransomNote:
+            if char not in mag_dict or mag_dict[char] == 0:
                 return False
-
+            mag_dict[char] -= 1
+            
         return True
