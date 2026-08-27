@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/jisulee74/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/jisulee74/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/jisulee74/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/jisulee74/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/jisulee74/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
