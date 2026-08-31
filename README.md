@@ -6,6 +6,7 @@
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/jisulee74/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/jisulee74/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jisulee74/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/jisulee74/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
@@ -35,6 +36,7 @@
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/jisulee74/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/jisulee74/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
