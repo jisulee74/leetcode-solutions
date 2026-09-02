@@ -11,6 +11,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/jisulee74/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jisulee74/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jisulee74/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1672-richest-customer-wealth](https://github.com/jisulee74/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -43,10 +44,12 @@
 | [0876-middle-of-the-linked-list](https://github.com/jisulee74/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/jisulee74/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jisulee74/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/jisulee74/leetcode-solutions/tree/master/0383-ransom-note) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jisulee74/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
 | ------- |
@@ -56,4 +59,9 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jisulee74/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+## Binary Search
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jisulee74/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
