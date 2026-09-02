@@ -4,16 +4,15 @@ class Solution(object):
         :type arr: List[int]
         :rtype: bool
         """
-        count = 0
-        break_all = False
+        seen = set()
         
-        for i in range(0, len(arr)):
-            for j in range(0, len(arr)):
-                if arr[i] == 2 * arr[j] and i != j:
-                    count += 1
-                    break_all = True
-                    break
-            if break_all:
-                break
-        
-        return True if count != 0 else False
+        for num in arr:
+            # 현재 숫자의 2배가 이미 나왔거나
+            # 현재 숫자가 짝수이고 그 절반이 이미 나왔다면 조건 충족
+            if num * 2 in seen or (num % 2 == 0 and num // 2 in seen):
+                return True
+            
+            # 현재 숫자를 기록
+            seen.add(num)
+            
+        return False
