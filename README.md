@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/jisulee74/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/jisulee74/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0941-valid-mountain-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/jisulee74/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jisulee74/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
