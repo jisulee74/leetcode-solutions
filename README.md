@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/jisulee74/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/jisulee74/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/jisulee74/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/jisulee74/leetcode-solutions/tree/master/1089-duplicate-zeros) |
@@ -46,6 +47,7 @@
 | [0088-merge-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/jisulee74/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/jisulee74/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/jisulee74/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/jisulee74/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jisulee74/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/jisulee74/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jisulee74/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
