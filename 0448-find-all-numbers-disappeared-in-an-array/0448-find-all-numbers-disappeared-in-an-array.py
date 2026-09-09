@@ -4,5 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        return list(set(range(1, len(nums)+1))- set(nums))
-        
+        for num in nums:
+            idx = abs(num) - 1
+            if nums[idx] > 0:
+                nums[idx] = -nums[idx]
+
+        return [i+1 for i, num in enumerate(nums) if num > 0]
