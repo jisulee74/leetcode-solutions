@@ -11,6 +11,7 @@
 | [0414-third-maximum-number](https://github.com/jisulee74/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/jisulee74/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/jisulee74/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/jisulee74/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/jisulee74/leetcode-solutions/tree/master/1051-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/jisulee74/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
