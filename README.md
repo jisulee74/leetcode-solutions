@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jisulee74/leetcode-solutions/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/jisulee74/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jisulee74/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/jisulee74/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -27,6 +28,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jisulee74/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/jisulee74/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [1672-richest-customer-wealth](https://github.com/jisulee74/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -43,6 +45,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jisulee74/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/jisulee74/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/jisulee74/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 ## Linked List
