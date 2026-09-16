@@ -9,6 +9,7 @@
 | [0054-spiral-matrix](https://github.com/jisulee74/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jisulee74/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/jisulee74/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/jisulee74/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/jisulee74/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/jisulee74/leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/jisulee74/leetcode-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
