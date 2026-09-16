@@ -7,6 +7,7 @@ class Solution(object):
         # 첫 번째 행은 무조건 [1]로 시작합니다.
         triangle = [[1]]
         
+        # prev_row: 이전 행, current_row: 현재 행
         for i in range(1, numRows):
             prev_row = triangle[i - 1]
             current_row = [1]  # 각 행의 시작은 항상 1
