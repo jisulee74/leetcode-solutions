@@ -43,6 +43,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/jisulee74/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/jisulee74/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1768-merge-strings-alternately](https://github.com/jisulee74/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/jisulee74/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jisulee74/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/jisulee74/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
