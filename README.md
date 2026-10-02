@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jisulee74/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jisulee74/leetcode-solutions/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/jisulee74/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -59,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jisulee74/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jisulee74/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/jisulee74/leetcode-solutions/tree/master/0118-pascals-triangle) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jisulee74/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
