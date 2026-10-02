@@ -6,7 +6,6 @@ class Solution(object):
         :rtype: str
         """
         merged = []
-
         i = 0
 
         while i < len(word1) or i < len(word2):
@@ -15,5 +14,5 @@ class Solution(object):
             if i < len(word2):
                 merged.append(word2[i])
             i += 1
-
-        return "".join(merged)
+            
+        return ''.join(merged)
