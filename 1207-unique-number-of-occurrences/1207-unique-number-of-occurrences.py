@@ -7,7 +7,7 @@ class Solution(object):
         """
         count_dict = defaultdict(int)
 
-        for i, num in enumerate(arr):
+        for num in arr:
             count_dict[num] += 1
                 
         return len(count_dict.values()) == len(set(count_dict.values()))
