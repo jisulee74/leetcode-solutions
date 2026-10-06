@@ -1,4 +1,4 @@
-from collections import defaultdict, Counter
+from collections import Counter
 
 class Solution(object):
     def closeStrings(self, word1, word2):
@@ -10,16 +10,9 @@ class Solution(object):
         if len(word1) != len(word2):
             return False
         
-        # 알파벳별 count 의 개수 및 종류가 같으면 true
-        count_dict_1 = defaultdict(int)
-        count_dict_2 = defaultdict(int)
+        c1 = Counter(word1)
+        c2 = Counter(word2)
 
-        for char in word1:
-            count_dict_1[char] += 1
-        
-        for char in word2:
-            count_dict_2[char] += 1
-
-        return Counter(list(count_dict_1.values())) == Counter(list(count_dict_2.values())) and Counter(list(count_dict_1)) == Counter(list(count_dict_2))
-
-        
+        # 1. 알파벳 종류가 같고
+        # 2. 각 빈도수의 구성이 일치하는지 
+        return set(c1.keys()) == set(c2.keys()) and sorted(c1.values()) == sorted(c2.values())
