@@ -31,6 +31,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/jisulee74/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jisulee74/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1672-richest-customer-wealth](https://github.com/jisulee74/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/jisulee74/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0383-ransom-note](https://github.com/jisulee74/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jisulee74/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/jisulee74/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
