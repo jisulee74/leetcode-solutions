@@ -13,7 +13,6 @@ class Solution(object):
         c1 = Counter(word1)
         c2 = Counter(word2)
 
-        # 1. 알파벳 종류가 같고
-        # 2. 각 빈도수의 구성이 일치하는지 
-        return set(c1.keys()) == set(c2.keys()) and sorted(c1.values()) == sorted(c2.values())
+        # 1. 알파벳 종류가 같고 (key 일치여부)
+        # 2. 각 빈도수의 구성이 일치하는지 (value 일치여부)
         return set(c1) == set(c2) and sorted(c1.values()) == sorted(c2.values())
