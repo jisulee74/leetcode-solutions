@@ -17,6 +17,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/jisulee74/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/jisulee74/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0643-maximum-average-subarray-i](https://github.com/jisulee74/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/jisulee74/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jisulee74/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/jisulee74/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jisulee74/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/jisulee74/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
