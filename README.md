@@ -26,6 +26,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/jisulee74/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/jisulee74/leetcode-solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/jisulee74/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1207-unique-number-of-occurrences](https://github.com/jisulee74/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jisulee74/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/jisulee74/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jisulee74/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/jisulee74/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jisulee74/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/jisulee74/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jisulee74/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jisulee74/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Counting
