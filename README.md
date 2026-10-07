@@ -53,12 +53,14 @@
 | [0412-fizz-buzz](https://github.com/jisulee74/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jisulee74/leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/jisulee74/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/jisulee74/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jisulee74/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/jisulee74/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/jisulee74/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [2390-removing-stars-from-a-string](https://github.com/jisulee74/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -137,4 +139,8 @@
 | [0643-maximum-average-subarray-i](https://github.com/jisulee74/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/jisulee74/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jisulee74/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/jisulee74/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
