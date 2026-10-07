@@ -4,20 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        left_sum = [0] * len(nums)
-        right_sum = [0] * len(nums)
+        total_sum = sum(nums)
+        left_sum = 0
 
-        for i in range(1, len(nums)):
-            left_sum[i] = sum(nums[:i])
+        for i, num in enumerate(nums):
+            if left_sum == total_sum - left_sum - num:
+                return i
+            left_sum += num
         
-        for i in range(len(nums)-2, -1, -1):
-            right_sum[i] = sum(nums[len(nums)-1:i:-1])
-        
-        for x in range(len(nums)):
-            if left_sum[x] == right_sum[x]:
-                return x
-            else:
-                continue
-
         return -1
-        
