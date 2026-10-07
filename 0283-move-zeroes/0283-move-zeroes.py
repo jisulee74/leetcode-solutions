@@ -4,11 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        last_zero_found_at = 0
+        # 0이 아닌 숫자가 새로 둘어와서 삽입될 위치(인덱스)
+        insert_pos = 0
 
-        for i in range(len(nums)):
-            if nums[i] != 0:
-                if i != last_zero_found_at:
-                    nums[i], nums[last_zero_found_at] = nums[last_zero_found_at], nums[i]
-                last_zero_found_at += 1
-        
+        for i, num in enumerate(nums):
+            if num != 0:
+                if i != insert_pos:
+                    nums[i], nums[insert_pos] = nums[insert_pos], nums[i]
+                insert_pos += 1
