@@ -4,9 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        left_product = 1
         answer = [1] * len(nums)
 
+        left_product = 1
         for i, num in enumerate(nums):
             answer[i] = left_product
             left_product *= num
@@ -15,5 +15,5 @@ class Solution(object):
         for i in range(len(nums)-1, -1, -1):
             answer[i] *= right_product
             right_product *= nums[i]
-
+        
         return answer
