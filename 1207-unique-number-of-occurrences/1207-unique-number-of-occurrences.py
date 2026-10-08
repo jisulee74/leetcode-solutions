@@ -1,4 +1,4 @@
-from collections import defaultdict
+from collections import Counter
 
 class Solution(object):
     def uniqueOccurrences(self, arr):
@@ -6,10 +6,6 @@ class Solution(object):
         :type arr: List[int]
         :rtype: bool
         """
+        c1 = Counter(arr)
 
-        count_dict = defaultdict(int)
-
-        for num in arr:
-            count_dict[num] += 1
-        
-        return len(set(count_dict.values())) == len(count_dict.values())
+        return len(c1.values()) == len(set(c1.values()))
