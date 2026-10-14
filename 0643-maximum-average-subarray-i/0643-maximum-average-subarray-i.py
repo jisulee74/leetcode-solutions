@@ -11,5 +11,5 @@ class Solution(object):
         for i in range(k, len(nums)):
             current_sum = current_sum - nums[i-k] + nums[i]
             current_max = max(current_max, current_sum)
-
+        
         return current_max / float(k)
