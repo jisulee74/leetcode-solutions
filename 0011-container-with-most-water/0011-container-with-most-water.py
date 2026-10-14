@@ -4,8 +4,8 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        max_water = 0
         left = 0
+        max_water = 0
         right = len(height) - 1
 
         while left < right:
@@ -19,3 +19,4 @@ class Solution(object):
                 right -= 1
 
         return max_water
+
